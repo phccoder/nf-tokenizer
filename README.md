@@ -35,7 +35,7 @@ Make sure you have **Python 3.x** installed on your system. You will also need t
 1. Clone this repository to your local system:
    ```bash
    git clone https://github.com/phccoder/nf-tokenizer.git
-   cd YOUR_REPOSITORY_NAME
+   cd nf-tokenizer
 
 2. Install the necessary dependencies via pip:
    ```bash
